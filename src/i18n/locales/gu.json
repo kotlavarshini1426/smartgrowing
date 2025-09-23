@@ -1,0 +1,104 @@
+{
+  "appTitle": "સ્માર્ટ ખેતી",
+  "appSubtitle": "આધુનિક કૃષિ સમાધાન",
+  "selectLanguage": "ભાષા પસંદ કરો",
+  "features": {
+    "weather": {
+      "title": "હવામાન આગાહી",
+      "description": "2-દિવસની આગાહી અને સિંચાઈની સલાહ",
+      "modal": {
+        "title": "હવામાન આગાહી",
+        "location": "સ્થળ",
+        "currentTemp": "હાલનું તાપમાન",
+        "condition": "સ્થિતિ",
+        "humidity": "ભેજ",
+        "windSpeed": "પવનની ગતિ",
+        "irrigationAdvice": "સિંચાઈની સલાહ",
+        "forecast": "2-દિવસની આગાહી",
+        "getWeather": "હવામાન જુઓ",
+        "enterLocation": "શહેરનું નામ દાખલ કરો"
+      }
+    },
+    "profit": {
+      "title": "નફો અને નુકસાન",
+      "description": "પાકની નફાકારકતા ગણો",
+      "modal": {
+        "title": "નફો અને નુકસાન કેલ્ક્યુલેટર",
+        "cropType": "પાકનો પ્રકાર",
+        "landArea": "જમીનનો વિસ્તાર (એકર)",
+        "expenses": "કુલ ખર્ચ (₹)",
+        "expectedYield": "અપેક્ષિત ઉત્પાદન",
+        "expectedRevenue": "અપેક્ષિત આવક",
+        "expectedProfit": "અપેક્ષિત નફો",
+        "profitMargin": "નફાનું માર્જિન",
+        "calculate": "ગણતરી કરો",
+        "selectCrop": "પાકનો પ્રકાર પસંદ કરો"
+      }
+    },
+    "market": {
+      "title": "બજાર ભાવ",
+      "description": "હાલના ભાવ અને વલણો",
+      "modal": {
+        "title": "બજાર ભાવ",
+        "currentPrice": "હાલનો ભાવ",
+        "yesterdayPrice": "ગઈકાલનો ભાવ",
+        "weeklyTrend": "સાપ્તાહિક વલણ",
+        "priceHistory": "ભાવનો ઇતિહાસ (છેલ્લા 7 દિવસ)",
+        "selectCrop": "ભાવ જોવા માટે પાક પસંદ કરો"
+      }
+    },
+    "advisory": {
+      "title": "પાક સલાહ",
+      "description": "તમારા વિસ્તાર માટે શ્રેષ્ઠ પાકો",
+      "modal": {
+        "title": "પાક સલાહ",
+        "location": "સ્થળ",
+        "soilType": "માટીનો પ્રકાર",
+        "season": "ઋતુ",
+        "recommendedCrops": "ભલામણ કરેલા પાકો",
+        "tips": "વાવેતરની ટિપ્સ",
+        "getAdvice": "સલાહ લો",
+        "enterLocation": "તમારું સ્થળ દાખલ કરો",
+        "selectSoil": "માટીનો પ્રકાર પસંદ કરો",
+        "selectSeason": "હાલની ઋતુ પસંદ કરો"
+      }
+    },
+    "pesticide": {
+      "title": "કીડાનાશક અને ખાતર",
+      "description": "ડોઝ અને સલામતી માર્ગદર્શન",
+      "modal": {
+        "title": "કીડાનાશક અને ખાતર માર્ગદર્શિકા",
+        "cropType": "પાકનો પ્રકાર",
+        "fieldArea": "ખેતરનો વિસ્તાર (એકર)",
+        "pesticideRecommendation": "કીડાનાશકની ભલામણ",
+        "fertilizerRecommendation": "ખાતરની ભલામણ",
+        "safetyTips": "સલામતી ટિપ્સ",
+        "getRecommendation": "ભલામણ લો",
+        "selectCrop": "પાકનો પ્રકાર પસંદ કરો"
+      }
+    },
+    "disease": {
+      "title": "રોગ શોધ",
+      "description": "AI-સંચાલિત પાક નિદાન",
+      "modal": {
+        "title": "રોગ શોધ",
+        "uploadImage": "પાનનો ફોટો અપલોડ કરો",
+        "analyzing": "ફોટોનું વિશ્લેષણ કરી રહ્યા છીએ...",
+        "results": "વિશ્લેષણ પરિણામો",
+        "diseaseName": "શોધાયેલ રોગ",
+        "severity": "ગંભીરતા",
+        "treatment": "ભલામણ કરેલ સારવાર",
+        "analyze": "ફોટોનું વિશ્લેષણ કરો",
+        "chooseFile": "ફોટો ફાઇલ પસંદ કરો"
+      }
+    }
+  },
+  "common": {
+    "close": "બંધ કરો",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "success": "સફળતા",
+    "submit": "સબમિટ કરો",
+    "cancel": "રદ કરો"
+  }
+}

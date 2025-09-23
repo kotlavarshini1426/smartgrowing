@@ -1,0 +1,104 @@
+{
+  "appTitle": "স্মার্ট কৃষি",
+  "appSubtitle": "আধুনিক কৃষি সমাধান",
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "features": {
+    "weather": {
+      "title": "আবহাওয়ার পূর্বাভাস",
+      "description": "২-দিনের পূর্বাভাস এবং সেচের পরামর্শ",
+      "modal": {
+        "title": "আবহাওয়ার পূর্বাভাস",
+        "location": "অবস্থান",
+        "currentTemp": "বর্তমান তাপমাত্রা",
+        "condition": "অবস্থা",
+        "humidity": "আর্দ্রতা",
+        "windSpeed": "বাতাসের গতি",
+        "irrigationAdvice": "সেচের পরামর্শ",
+        "forecast": "২-দিনের পূর্বাভাস",
+        "getWeather": "আবহাওয়া দেখুন",
+        "enterLocation": "শহরের নাম লিখুন"
+      }
+    },
+    "profit": {
+      "title": "লাভ ও ক্ষতি",
+      "description": "ফসলের লাভজনকতা গণনা করুন",
+      "modal": {
+        "title": "লাভ ও ক্ষতির ক্যালকুলেটর",
+        "cropType": "ফসলের ধরন",
+        "landArea": "জমির পরিমাণ (একর)",
+        "expenses": "মোট খরচ (৳)",
+        "expectedYield": "প্রত্যাশিত ফলন",
+        "expectedRevenue": "প্রত্যাশিত আয়",
+        "expectedProfit": "প্রত্যাশিত লাভ",
+        "profitMargin": "লাভের মার্জিন",
+        "calculate": "গণনা করুন",
+        "selectCrop": "ফসলের ধরন নির্বাচন করুন"
+      }
+    },
+    "market": {
+      "title": "বাজার দাম",
+      "description": "বর্তমান দাম এবং প্রবণতা",
+      "modal": {
+        "title": "বাজার দাম",
+        "currentPrice": "বর্তমান দাম",
+        "yesterdayPrice": "গতকালের দাম",
+        "weeklyTrend": "সাপ্তাহিক প্রবণতা",
+        "priceHistory": "দামের ইতিহাস (গত ৭ দিন)",
+        "selectCrop": "দাম দেখতে ফসল নির্বাচন করুন"
+      }
+    },
+    "advisory": {
+      "title": "ফসল পরামর্শ",
+      "description": "আপনার এলাকার জন্য সেরা ফসল",
+      "modal": {
+        "title": "ফসল পরামর্শ",
+        "location": "অবস্থান",
+        "soilType": "মাটির ধরন",
+        "season": "ঋতু",
+        "recommendedCrops": "প্রস্তাবিত ফসল",
+        "tips": "চাষের টিপস",
+        "getAdvice": "পরামর্শ নিন",
+        "enterLocation": "আপনার অবস্থান লিখুন",
+        "selectSoil": "মাটির ধরন নির্বাচন করুন",
+        "selectSeason": "বর্তমান ঋতু নির্বাচন করুন"
+      }
+    },
+    "pesticide": {
+      "title": "কীটনাশক ও সার",
+      "description": "মাত্রা এবং নিরাপত্তা নির্দেশিকা",
+      "modal": {
+        "title": "কীটনাশক ও সার গাইড",
+        "cropType": "ফসলের ধরন",
+        "fieldArea": "জমির পরিমাণ (একর)",
+        "pesticideRecommendation": "কীটনাশক সুপারিশ",
+        "fertilizerRecommendation": "সার সুপারিশ",
+        "safetyTips": "নিরাপত্তার টিপস",
+        "getRecommendation": "সুপারিশ নিন",
+        "selectCrop": "ফসলের ধরন নির্বাচন করুন"
+      }
+    },
+    "disease": {
+      "title": "রোগ শনাক্তকরণ",
+      "description": "AI-চালিত ফসল নির্ণয়",
+      "modal": {
+        "title": "রোগ শনাক্তকরণ",
+        "uploadImage": "পাতার ছবি আপলোড করুন",
+        "analyzing": "ছবি বিশ্লেষণ করছি...",
+        "results": "বিশ্লেষণের ফলাফল",
+        "diseaseName": "শনাক্তকৃত রোগ",
+        "severity": "তীব্রতা",
+        "treatment": "প্রস্তাবিত চিকিৎসা",
+        "analyze": "ছবি বিশ্লেষণ করুন",
+        "chooseFile": "ছবির ফাইল নির্বাচন করুন"
+      }
+    }
+  },
+  "common": {
+    "close": "বন্ধ করুন",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফল",
+    "submit": "জমা দিন",
+    "cancel": "বাতিল করুন"
+  }
+}

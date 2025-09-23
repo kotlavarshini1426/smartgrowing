@@ -1,0 +1,104 @@
+{
+  "appTitle": "स्मार्ट शेती",
+  "appSubtitle": "आधुनिक शेती उपाय",
+  "selectLanguage": "भाषा निवडा",
+  "features": {
+    "weather": {
+      "title": "हवामान अंदाज",
+      "description": "2-दिवसांचा अंदाज आणि पाणी पुरवठा सल्ला",
+      "modal": {
+        "title": "हवामान अंदाज",
+        "location": "स्थान",
+        "currentTemp": "सध्याचे तापमान",
+        "condition": "स्थिती",
+        "humidity": "आर्द्रता",
+        "windSpeed": "वाऱ्याचा वेग",
+        "irrigationAdvice": "पाणी पुरवठा सल्ला",
+        "forecast": "2-दिवसांचा अंदाज",
+        "getWeather": "हवामान पहा",
+        "enterLocation": "शहराचे नाव टाका"
+      }
+    },
+    "profit": {
+      "title": "नफा आणि तोटा",
+      "description": "पिकाची नफेदारपणा मोजा",
+      "modal": {
+        "title": "नफा आणि तोटा कॅल्क्युलेटर",
+        "cropType": "पिकाचा प्रकार",
+        "landArea": "जमिनीचे क्षेत्र (एकर)",
+        "expenses": "एकूण खर्च (₹)",
+        "expectedYield": "अपेक्षित उत्पादन",
+        "expectedRevenue": "अपेक्षित उत्पन्न",
+        "expectedProfit": "अपेक्षित नफा",
+        "profitMargin": "नफा मार्जिन",
+        "calculate": "मोजा",
+        "selectCrop": "पिकाचा प्रकार निवडा"
+      }
+    },
+    "market": {
+      "title": "बाजार भाव",
+      "description": "सध्याचे भाव आणि ट्रेंड",
+      "modal": {
+        "title": "बाजार भाव",
+        "currentPrice": "सध्याचा भाव",
+        "yesterdayPrice": "कालचा भाव",
+        "weeklyTrend": "साप्ताहिक ट्रेंड",
+        "priceHistory": "भावाचा इतिहास (गेले 7 दिवस)",
+        "selectCrop": "भाव पाहण्यासाठी पीक निवडा"
+      }
+    },
+    "advisory": {
+      "title": "पीक सल्ला",
+      "description": "तुमच्या क्षेत्रासाठी सर्वोत्तम पिके",
+      "modal": {
+        "title": "पीक सल्ला",
+        "location": "स्थान",
+        "soilType": "मातीचा प्रकार",
+        "season": "हंगाम",
+        "recommendedCrops": "सुचवलेली पिके",
+        "tips": "वाढवण्याच्या टिप्स",
+        "getAdvice": "सल्ला घ्या",
+        "enterLocation": "तुमचे स्थान टाका",
+        "selectSoil": "मातीचा प्रकार निवडा",
+        "selectSeason": "सध्याचा हंगाम निवडा"
+      }
+    },
+    "pesticide": {
+      "title": "कीटकनाशके आणि खते",
+      "description": "डोस आणि सुरक्षा मार्गदर्शन",
+      "modal": {
+        "title": "कीटकनाशक आणि खत मार्गदर्शक",
+        "cropType": "पिकाचा प्रकार",
+        "fieldArea": "शेताचे क्षेत्र (एकर)",
+        "pesticideRecommendation": "कीटकनाशक शिफारस",
+        "fertilizerRecommendation": "खत शिफारस",
+        "safetyTips": "सुरक्षा टिप्स",
+        "getRecommendation": "शिफारस घ्या",
+        "selectCrop": "पिकाचा प्रकार निवडा"
+      }
+    },
+    "disease": {
+      "title": "रोग ओळख",
+      "description": "AI-चालित पीक निदान",
+      "modal": {
+        "title": "रोग ओळख",
+        "uploadImage": "पानाचा फोटो अपलोड करा",
+        "analyzing": "फोटोचे विश्लेषण करत आहे...",
+        "results": "विश्लेषण परिणाम",
+        "diseaseName": "ओळखला गेलेला रोग",
+        "severity": "तीव्रता",
+        "treatment": "सुचवलेले उपचार",
+        "analyze": "फोटोचे विश्लेषण करा",
+        "chooseFile": "फोटो फाइल निवडा"
+      }
+    }
+  },
+  "common": {
+    "close": "बंद करा",
+    "loading": "लोड होत आहे...",
+    "error": "त्रुटी",
+    "success": "यश",
+    "submit": "सबमिट करा",
+    "cancel": "रद्द करा"
+  }
+}

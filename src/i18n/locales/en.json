@@ -1,0 +1,104 @@
+{
+  "appTitle": "Smart Farming",
+  "appSubtitle": "Modern Agriculture Solutions",
+  "selectLanguage": "Select Language",
+  "features": {
+    "weather": {
+      "title": "Weather Prediction",
+      "description": "2-day forecast & irrigation advice",
+      "modal": {
+        "title": "Weather Forecast",
+        "location": "Location",
+        "currentTemp": "Current Temperature",
+        "condition": "Condition",
+        "humidity": "Humidity",
+        "windSpeed": "Wind Speed",
+        "irrigationAdvice": "Irrigation Advice",
+        "forecast": "2-Day Forecast",
+        "getWeather": "Get Weather",
+        "enterLocation": "Enter city name"
+      }
+    },
+    "profit": {
+      "title": "Profit & Loss",
+      "description": "Calculate crop profitability",
+      "modal": {
+        "title": "Profit & Loss Calculator",
+        "cropType": "Crop Type",
+        "landArea": "Land Area (acres)",
+        "expenses": "Total Expenses (₹)",
+        "expectedYield": "Expected Yield",
+        "expectedRevenue": "Expected Revenue",
+        "expectedProfit": "Expected Profit",
+        "profitMargin": "Profit Margin",
+        "calculate": "Calculate",
+        "selectCrop": "Select crop type"
+      }
+    },
+    "market": {
+      "title": "Market Prices",
+      "description": "Current prices & trends",
+      "modal": {
+        "title": "Market Prices",
+        "currentPrice": "Current Price",
+        "yesterdayPrice": "Yesterday's Price",
+        "weeklyTrend": "Weekly Trend",
+        "priceHistory": "Price History (Last 7 days)",
+        "selectCrop": "Select crop to view prices"
+      }
+    },
+    "advisory": {
+      "title": "Crop Advisory",
+      "description": "Best crops for your location",
+      "modal": {
+        "title": "Crop Advisory",
+        "location": "Location",
+        "soilType": "Soil Type",
+        "season": "Season",
+        "recommendedCrops": "Recommended Crops",
+        "tips": "Growing Tips",
+        "getAdvice": "Get Advice",
+        "enterLocation": "Enter your location",
+        "selectSoil": "Select soil type",
+        "selectSeason": "Select current season"
+      }
+    },
+    "pesticide": {
+      "title": "Pesticides & Fertilizers",
+      "description": "Dosage & safety guidelines",
+      "modal": {
+        "title": "Pesticide & Fertilizer Guide",
+        "cropType": "Crop Type",
+        "fieldArea": "Field Area (acres)",
+        "pesticideRecommendation": "Pesticide Recommendation",
+        "fertilizerRecommendation": "Fertilizer Recommendation",
+        "safetyTips": "Safety Tips",
+        "getRecommendation": "Get Recommendation",
+        "selectCrop": "Select crop type"
+      }
+    },
+    "disease": {
+      "title": "Disease Detection",
+      "description": "AI-powered crop diagnosis",
+      "modal": {
+        "title": "Disease Detection",
+        "uploadImage": "Upload Leaf Image",
+        "analyzing": "Analyzing image...",
+        "results": "Analysis Results",
+        "diseaseName": "Disease Detected",
+        "severity": "Severity",
+        "treatment": "Recommended Treatment",
+        "analyze": "Analyze Image",
+        "chooseFile": "Choose image file"
+      }
+    }
+  },
+  "common": {
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}

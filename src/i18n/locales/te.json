@@ -1,0 +1,104 @@
+{
+  "appTitle": "స్మార్ట్ వ్యవసాయం",
+  "appSubtitle": "ఆధునిక వ్యవసాయ పరిష్కారాలు",
+  "selectLanguage": "భాష ఎంచుకోండి",
+  "features": {
+    "weather": {
+      "title": "వాతావరణ అంచనా",
+      "description": "2-రోజుల అంచనా మరియు నీటిపారుదల సలహా",
+      "modal": {
+        "title": "వాతావరణ అంచనా",
+        "location": "ప్రదేశం",
+        "currentTemp": "ప్రస్తుత ఉష్ణోగ్రత",
+        "condition": "పరిస్థితి",
+        "humidity": "తేమ",
+        "windSpeed": "గాలి వేగం",
+        "irrigationAdvice": "నీటిపారుదల సలహా",
+        "forecast": "2-రోజుల అంచనా",
+        "getWeather": "వాతావరణం చూడండి",
+        "enterLocation": "నగర పేరు ఎంటర్ చేయండి"
+      }
+    },
+    "profit": {
+      "title": "లాభ మరియు నష్టం",
+      "description": "పంట లాభదాయకతను లెక్కించండి",
+      "modal": {
+        "title": "లాభ మరియు నష్ట లెక్కింపు",
+        "cropType": "పంట రకం",
+        "landArea": "భూమి వైశాల్యం (ఎకరాలు)",
+        "expenses": "మొత్తం ఖర్చులు (₹)",
+        "expectedYield": "ఆశించిన దిగుబడి",
+        "expectedRevenue": "ఆశించిన రాబడి",
+        "expectedProfit": "ఆశించిన లాభం",
+        "profitMargin": "లాభ మార్జిన్",
+        "calculate": "లెక్కించండి",
+        "selectCrop": "పంట రకం ఎంచుకోండి"
+      }
+    },
+    "market": {
+      "title": "మార్కెట్ ధరలు",
+      "description": "ప్రస్తుత ధరలు మరియు ధోరణులు",
+      "modal": {
+        "title": "మార్కెట్ ధరలు",
+        "currentPrice": "ప్రస్తుత ధర",
+        "yesterdayPrice": "నిన్న ధర",
+        "weeklyTrend": "వారపు ధోరణి",
+        "priceHistory": "ధర చరిత్ర (గత 7 రోజులు)",
+        "selectCrop": "ధరలు చూడటానికి పంట ఎంచుకోండి"
+      }
+    },
+    "advisory": {
+      "title": "పంట సలహా",
+      "description": "మీ ప్రాంతానికి అనుకూలమైన పంటలు",
+      "modal": {
+        "title": "పంట సలహా",
+        "location": "ప్రదేశం",
+        "soilType": "మట్టి రకం",
+        "season": "కాలం",
+        "recommendedCrops": "సిఫార్సు చేసిన పంటలు",
+        "tips": "పెంపకం చిట్కాలు",
+        "getAdvice": "సలహా పొందండి",
+        "enterLocation": "మీ ప్రదేశం ఎంటర్ చేయండి",
+        "selectSoil": "మట్టి రకం ఎంచుకోండి",
+        "selectSeason": "ప్రస్తుత కాలం ఎంచుకోండి"
+      }
+    },
+    "pesticide": {
+      "title": "పురుగుమందులు మరియు ఎరువులు",
+      "description": "మోతాదు మరియు భద్రతా మార్గదర్శకాలు",
+      "modal": {
+        "title": "పురుగుమందు మరియు ఎరువుల గైడ్",
+        "cropType": "పంట రకం",
+        "fieldArea": "పొలం వైశాల్యం (ఎకరాలు)",
+        "pesticideRecommendation": "పురుగుమందు సిఫార్సు",
+        "fertilizerRecommendation": "ఎరువుల సిఫార్సు",
+        "safetyTips": "భద్రతా చిట్కాలు",
+        "getRecommendation": "సిఫార్సు పొందండి",
+        "selectCrop": "పంట రకం ఎంచుకోండి"
+      }
+    },
+    "disease": {
+      "title": "వ్యాధి గుర్తింపు",
+      "description": "AI-ఆధారిత పంట నిర్ధారణ",
+      "modal": {
+        "title": "వ్యాధి గుర్తింపు",
+        "uploadImage": "ఆకు చిత్రం అప్‌లోడ్ చేయండి",
+        "analyzing": "చిత్రం విశ్లేషిస్తున్నాం...",
+        "results": "విశ్లేషణ ఫలితాలు",
+        "diseaseName": "గుర్తించిన వ్యాధి",
+        "severity": "తీవ్రత",
+        "treatment": "సిఫార్సు చేసిన చికిత్స",
+        "analyze": "చిత్రం విశ్లేషించండి",
+        "chooseFile": "చిత్రం ఫైల్ ఎంచుకోండి"
+      }
+    }
+  },
+  "common": {
+    "close": "మూసివేయండి",
+    "loading": "లోడవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం",
+    "submit": "సమర్పించండి",
+    "cancel": "రద్దుచేయండి"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "appTitle": "ਸਮਾਰਟ ਖੇਤੀ",
+  "appSubtitle": "ਆਧੁਨਿਕ ਖੇਤੀ ਹੱਲ",
+  "selectLanguage": "ਭਾਸ਼ਾ ਚੁਣੋ",
+  "features": {
+    "weather": {
+      "title": "ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+      "description": "2-ਦਿਨ ਦੀ ਭਵਿੱਖਬਾਣੀ ਅਤੇ ਸਿੰਚਾਈ ਸਲਾਹ",
+      "modal": {
+        "title": "ਮੌਸਮ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+        "location": "ਸਥਾਨ",
+        "currentTemp": "ਮੌਜੂਦਾ ਤਾਪਮਾਨ",
+        "condition": "ਹਾਲਤ",
+        "humidity": "ਨਮੀ",
+        "windSpeed": "ਹਵਾ ਦੀ ਗਤੀ",
+        "irrigationAdvice": "ਸਿੰਚਾਈ ਸਲਾਹ",
+        "forecast": "2-ਦਿਨ ਦੀ ਭਵਿੱਖਬਾਣੀ",
+        "getWeather": "ਮੌਸਮ ਦੇਖੋ",
+        "enterLocation": "ਸ਼ਹਿਰ ਦਾ ਨਾਮ ਦਾਖਲ ਕਰੋ"
+      }
+    },
+    "profit": {
+      "title": "ਲਾਭ ਅਤੇ ਹਾਨੀ",
+      "description": "ਫਸਲ ਦੀ ਲਾਭਕਾਰੀਤਾ ਦੀ ਗਣਨਾ ਕਰੋ",
+      "modal": {
+        "title": "ਲਾਭ ਅਤੇ ਹਾਨੀ ਕੈਲਕੁਲੇਟਰ",
+        "cropType": "ਫਸਲ ਦੀ ਕਿਸਮ",
+        "landArea": "ਜ਼ਮੀਨ ਦਾ ਖੇਤਰ (ਏਕੜ)",
+        "expenses": "ਕੁੱਲ ਖਰਚੇ (₹)",
+        "expectedYield": "ਸੰਭਾਵਿਤ ਪੈਦਾਵਾਰ",
+        "expectedRevenue": "ਸੰਭਾਵਿਤ ਆਮਦਨ",
+        "expectedProfit": "ਸੰਭਾਵਿਤ ਲਾਭ",
+        "profitMargin": "ਲਾਭ ਮਾਰਜਿਨ",
+        "calculate": "ਗਣਨਾ ਕਰੋ",
+        "selectCrop": "ਫਸਲ ਦੀ ਕਿਸਮ ਚੁਣੋ"
+      }
+    },
+    "market": {
+      "title": "ਮੰਡੀ ਦੇ ਭਾਅ",
+      "description": "ਮੌਜੂਦਾ ਭਾਅ ਅਤੇ ਰੁਝਾਨ",
+      "modal": {
+        "title": "ਮੰਡੀ ਦੇ ਭਾਅ",
+        "currentPrice": "ਮੌਜੂਦਾ ਭਾਅ",
+        "yesterdayPrice": "ਕੱਲ ਦਾ ਭਾਅ",
+        "weeklyTrend": "ਹਫਤਾਵਾਰੀ ਰੁਝਾਨ",
+        "priceHistory": "ਭਾਅ ਦਾ ਇਤਿਹਾਸ (ਪਿਛਲੇ 7 ਦਿਨ)",
+        "selectCrop": "ਭਾਅ ਦੇਖਣ ਲਈ ਫਸਲ ਚੁਣੋ"
+      }
+    },
+    "advisory": {
+      "title": "ਫਸਲ ਸਲਾਹ",
+      "description": "ਤੁਹਾਡੇ ਖੇਤਰ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਫਸਲਾਂ",
+      "modal": {
+        "title": "ਫਸਲ ਸਲਾਹ",
+        "location": "ਸਥਾਨ",
+        "soilType": "ਮਿੱਟੀ ਦੀ ਕਿਸਮ",
+        "season": "ਸੀਜ਼ਨ",
+        "recommendedCrops": "ਸਿਫਾਰਸ਼ੀ ਫਸਲਾਂ",
+        "tips": "ਉਗਾਉਣ ਦੇ ਗੁਰ",
+        "getAdvice": "ਸਲਾਹ ਲਓ",
+        "enterLocation": "ਆਪਣਾ ਸਥਾਨ ਦਾਖਲ ਕਰੋ",
+        "selectSoil": "ਮਿੱਟੀ ਦੀ ਕਿਸਮ ਚੁਣੋ",
+        "selectSeason": "ਮੌਜੂਦਾ ਸੀਜ਼ਨ ਚੁਣੋ"
+      }
+    },
+    "pesticide": {
+      "title": "ਕੀਟਨਾਸ਼ਕ ਅਤੇ ਖਾਦ",
+      "description": "ਖੁਰਾਕ ਅਤੇ ਸੁਰੱਖਿਆ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼",
+      "modal": {
+        "title": "ਕੀਟਨਾਸ਼ਕ ਅਤੇ ਖਾਦ ਗਾਈਡ",
+        "cropType": "ਫਸਲ ਦੀ ਕਿਸਮ",
+        "fieldArea": "ਖੇਤ ਦਾ ਖੇਤਰ (ਏਕੜ)",
+        "pesticideRecommendation": "ਕੀਟਨਾਸ਼ਕ ਸਿਫਾਰਸ਼",
+        "fertilizerRecommendation": "ਖਾਦ ਸਿਫਾਰਸ਼",
+        "safetyTips": "ਸੁਰੱਖਿਆ ਸੁਝਾਅ",
+        "getRecommendation": "ਸਿਫਾਰਸ਼ ਲਓ",
+        "selectCrop": "ਫਸਲ ਦੀ ਕਿਸਮ ਚੁਣੋ"
+      }
+    },
+    "disease": {
+      "title": "ਬਿਮਾਰੀ ਦੀ ਪਛਾਣ",
+      "description": "AI-ਸੰਚਾਲਿਤ ਫਸਲ ਨਿਦਾਨ",
+      "modal": {
+        "title": "ਬਿਮਾਰੀ ਦੀ ਪਛਾਣ",
+        "uploadImage": "ਪੱਤੇ ਦੀ ਤਸਵੀਰ ਅਪਲੋਡ ਕਰੋ",
+        "analyzing": "ਤਸਵੀਰ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰ ਰਹੇ ਹਾਂ...",
+        "results": "ਵਿਸ਼ਲੇਸ਼ਣ ਦੇ ਨਤੀਜੇ",
+        "diseaseName": "ਪਛਾਣੀ ਗਈ ਬਿਮਾਰੀ",
+        "severity": "ਗੰਭੀਰਤਾ",
+        "treatment": "ਸਿਫਾਰਸ਼ੀ ਇਲਾਜ",
+        "analyze": "ਤਸਵੀਰ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰੋ",
+        "chooseFile": "ਤਸਵੀਰ ਫਾਈਲ ਚੁਣੋ"
+      }
+    }
+  },
+  "common": {
+    "close": "ਬੰਦ ਕਰੋ",
+    "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+    "error": "ਗਲਤੀ",
+    "success": "ਸਫਲਤਾ",
+    "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+    "cancel": "ਰੱਦ ਕਰੋ"
+  }
+}

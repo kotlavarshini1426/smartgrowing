@@ -1,0 +1,104 @@
+{
+  "appTitle": "സ്മാർട്ട് കൃഷി",
+  "appSubtitle": "ആധുനിക കൃഷി പരിഹാരങ്ങൾ",
+  "selectLanguage": "ഭാഷ തിരഞ്ഞെടുക്കുക",
+  "features": {
+    "weather": {
+      "title": "കാലാവസ്ഥാ പ്രവചനം",
+      "description": "2-ദിവസത്തെ പ്രവചനവും ജലസേചന ഉപദേശവും",
+      "modal": {
+        "title": "കാലാവസ്ഥാ പ്രവചനം",
+        "location": "സ്ഥലം",
+        "currentTemp": "നിലവിലെ താപനില",
+        "condition": "അവസ്ഥ",
+        "humidity": "ആർദ്രത",
+        "windSpeed": "കാറ്റിന്റെ വേഗത",
+        "irrigationAdvice": "ജലസേചന ഉപദേശം",
+        "forecast": "2-ദിവസത്തെ പ്രവചനം",
+        "getWeather": "കാലാവസ്ഥ കാണുക",
+        "enterLocation": "നഗരത്തിന്റെ പേര് നൽകുക"
+      }
+    },
+    "profit": {
+      "title": "ലാഭനഷ്ടം",
+      "description": "വിള ലാഭകരത കണക്കാക്കുക",
+      "modal": {
+        "title": "ലാഭനഷ്ട കാൽക്കുലേറ്റർ",
+        "cropType": "വിള തരം",
+        "landArea": "ഭൂമിയുടെ വിസ്തീർണ്ണം (ഏക്കർ)",
+        "expenses": "മൊത്തം ചെലവുകൾ (₹)",
+        "expectedYield": "പ്രതീക്ഷിത വിളവ്",
+        "expectedRevenue": "പ്രതീക്ഷിത വരുമാനം",
+        "expectedProfit": "പ്രതീക്ഷിത ലാഭം",
+        "profitMargin": "ലാഭ മാർജിൻ",
+        "calculate": "കണക്കാക്കുക",
+        "selectCrop": "വിള തരം തിരഞ്ഞെടുക്കുക"
+      }
+    },
+    "market": {
+      "title": "വിപണി വില",
+      "description": "നിലവിലെ വിലകളും പ്രവണതകളും",
+      "modal": {
+        "title": "വിപണി വില",
+        "currentPrice": "നിലവിലെ വില",
+        "yesterdayPrice": "ഇന്നലത്തെ വില",
+        "weeklyTrend": "പ്രതിവാര പ്രവണത",
+        "priceHistory": "വില ചരിത്രം (കഴിഞ്ഞ 7 ദിവസം)",
+        "selectCrop": "വില കാണാൻ വിള തിരഞ്ഞെടുക്കുക"
+      }
+    },
+    "advisory": {
+      "title": "വിള ഉപദേശം",
+      "description": "നിങ്ങളുടെ പ്രദേശത്തിനായി മികച്ച വിളകൾ",
+      "modal": {
+        "title": "വിള ഉപദേശം",
+        "location": "സ്ഥലം",
+        "soilType": "മണ്ണിന്റെ തരം",
+        "season": "സീസൺ",
+        "recommendedCrops": "ശുപാർശ ചെയ്യുന്ന വിളകൾ",
+        "tips": "കൃഷി നുറുങ്ങുകൾ",
+        "getAdvice": "ഉപദേശം നേടുക",
+        "enterLocation": "നിങ്ങളുടെ സ്ഥലം നൽകുക",
+        "selectSoil": "മണ്ണിന്റെ തരം തിരഞ്ഞെടുക്കുക",
+        "selectSeason": "നിലവിലെ സീസൺ തിരഞ്ഞെടുക്കുക"
+      }
+    },
+    "pesticide": {
+      "title": "കീടനാശിനികളും രാസവളങ്ങളും",
+      "description": "ഡോസും സുരക്ഷാ മാർഗനിർദേശങ്ങളും",
+      "modal": {
+        "title": "കീടനാശിനി, രാസവള ഗൈഡ്",
+        "cropType": "വിള തരം",
+        "fieldArea": "പാടത്തിന്റെ വിസ്തീർണ്ണം (ഏക്കർ)",
+        "pesticideRecommendation": "കീടനാശിനി ശുപാർശ",
+        "fertilizerRecommendation": "രാസവള ശുപാർശ",
+        "safetyTips": "സുരക്ഷാ നുറുങ്ങുകൾ",
+        "getRecommendation": "ശുപാർശ നേടുക",
+        "selectCrop": "വിള തരം തിരഞ്ഞെടുക്കുക"
+      }
+    },
+    "disease": {
+      "title": "രോഗ കണ്ടെത്തൽ",
+      "description": "AI-പവർഡ് വിള നിർണ്ണയം",
+      "modal": {
+        "title": "രോഗ കണ്ടെത്തൽ",
+        "uploadImage": "ഇലയുടെ ചിത്രം അപ്‌ലോഡ് ചെയ്യുക",
+        "analyzing": "ചിത്രം വിശകലനം ചെയ്യുന്നു...",
+        "results": "വിശകലന ഫലങ്ങൾ",
+        "diseaseName": "കണ്ടെത്തിയ രോഗം",
+        "severity": "തീവ്രത",
+        "treatment": "ശുപാർശ ചെയ്യുന്ന ചികിത്സ",
+        "analyze": "ചിത്രം വിശകലനം ചെയ്യുക",
+        "chooseFile": "ചിത്ര ഫയൽ തിരഞ്ഞെടുക്കുക"
+      }
+    }
+  },
+  "common": {
+    "close": "അടയ്ക്കുക",
+    "loading": "ലോഡ് ചെയ്യുന്നു...",
+    "error": "പിശക്",
+    "success": "വിജയം",
+    "submit": "സമർപ്പിക്കുക",
+    "cancel": "റദ്ദാക്കുക"
+  }
+}
